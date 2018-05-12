@@ -1,5 +1,8 @@
 _repo: Poems-of-Nature-Poems-Subjective-and-Reminiscent-and-Religious-Poems-Complete--13-Volume-II-of__9574
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Whittier, John Greenleaf
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/455
     wikipedia: http://en.wikipedia.org/wiki/John_Greenleaf_Whittier
 description: Includes eBooks 9568-9573.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9574#Poems-of-Nature-Poems-Subjective-and-Reminiscent-and-Religious-Poems-Complete--13-Volume-II-of_
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
